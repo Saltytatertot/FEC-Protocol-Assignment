@@ -1,0 +1,294 @@
+Tatum Gray
+11/28/21
+CSCI 466
+Phil Curtiss
+
+(Sending Option 2 from step 2)
+
+
+Original Message:
+0X5423
+Byte Number to be sent Back:
+3
+
+
+Original Message:
+0X5423
+Byte Number to be sent Back:
+2
+
+
+Original Message:
+0X5423
+Byte Number to be sent Back:
+3
+
+
+Original Message:
+0X5423
+Byte Number to be sent Back:
+4
+
+
+Original Message:
+0X9CE1
+Byte Number to be sent Back:
+0
+
+
+Original Message:
+0X9CE1
+Byte Number to be sent Back:
+1
+
+
+Original Message:
+0X9CE1
+Byte Number to be sent Back:
+2
+
+
+Original Message:
+0X9CE1
+Byte Number to be sent Back:
+1
+
+
+Original Message:
+0XA15B
+Byte Number to be sent Back:
+2
+
+
+Original Message:
+0XA15B
+Byte Number to be sent Back:
+5
+
+
+Original Message:
+0XA15B
+Byte Number to be sent Back:
+0
+
+
+Original Message:
+0XA15B
+Byte Number to be sent Back:
+3
+
+
+Original Message:
+0X6248
+Byte Number to be sent Back:
+5
+
+
+Original Message:
+0X6248
+Byte Number to be sent Back:
+4
+
+
+Original Message:
+0X6248
+Byte Number to be sent Back:
+3
+
+
+Original Message:
+0X6248
+Byte Number to be sent Back:
+4
+
+
+Original Message:
+0XC62D
+Byte Number to be sent Back:
+0
+
+
+Original Message:
+0XC62D
+Byte Number to be sent Back:
+6
+
+
+Original Message:
+0XC62D
+Byte Number to be sent Back:
+5
+
+
+Original Message:
+0XC62D
+Byte Number to be sent Back:
+0
+
+
+Original Message:
+0XF41A
+Byte Number to be sent Back:
+4
+
+
+Original Message:
+0XF41A
+Byte Number to be sent Back:
+2
+
+
+Original Message:
+0XF41A
+Byte Number to be sent Back:
+1
+
+
+Original Message:
+0XF41A
+Byte Number to be sent Back:
+0
+
+
+Original Message:
+0XD99A
+Byte Number to be sent Back:
+2
+
+
+Original Message:
+0XD99A
+Byte Number to be sent Back:
+3
+
+
+Original Message:
+0XD99A
+Byte Number to be sent Back:
+2
+
+
+Original Message:
+0XD99A
+Byte Number to be sent Back:
+1
+
+
+Original Message:
+0X758C
+Byte Number to be sent Back:
+7
+
+
+Original Message:
+0X758C
+Byte Number to be sent Back:
+0
+
+
+Original Message:
+0X758C
+Byte Number to be sent Back:
+1
+
+
+Original Message:
+0X758C
+Byte Number to be sent Back:
+1
+
+
+Original Message:
+0XD77D
+Byte Number to be sent Back:
+0
+
+
+Original Message:
+0XD77D
+Byte Number to be sent Back:
+1
+
+
+Original Message:
+0XD77D
+Byte Number to be sent Back:
+0
+
+
+Original Message:
+0XD77D
+Byte Number to be sent Back:
+3
+
+
+Original Message:
+0X812A
+Byte Number to be sent Back:
+1
+
+
+Original Message:
+0X812A
+Byte Number to be sent Back:
+0
+
+
+Original Message:
+0X812A
+Byte Number to be sent Back:
+1
+
+
+Original Message:
+0X812A
+Byte Number to be sent Back:
+3
+
+
+Original Message:
+0X1AE2
+Byte Number to be sent Back:
+0
+
+
+Original Message:
+0X1AE2
+Byte Number to be sent Back:
+4
+
+
+Original Message:
+0X1AE2
+Byte Number to be sent Back:
+2
+
+
+Original Message:
+0X1AE2
+Byte Number to be sent Back:
+0
+
+
+Original Message:
+0XB11B
+Byte Number to be sent Back:
+2
+
+
+Original Message:
+0XB11B
+Byte Number to be sent Back:
+1
+
+
+Original Message:
+0XB11B
+Byte Number to be sent Back:
+2
+
+
+Original Message:
+0XB11B
+Byte Number to be sent Back:
+2
